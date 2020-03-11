@@ -1,5 +1,5 @@
-date_report,time_report,suspected cases,positive,discharged,death,negative,unknown,KCDC_no (https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0015),date_accessed (based on Korean time)
-2020-01-19,,0,0,0,0,0,0,NA,NA
+date_report,time_report,suspected cases,positive,discharged,death,negative,unknown,KCDC_no,date_accessed
+2020-01-19,,0,0,0,0,0,0,,
 2020-01-20,,4,1,0,0,3,0,3606,2020-02-09
 2020-01-21,,11,1,0,0,10,0,"3607, 3608",2020-02-09
 2020-01-22,,16,1,0,0,11,4,3609,2020-02-09
